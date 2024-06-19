@@ -1,0 +1,1 @@
+# Hackintosh-EFI-Sequoia-HP800G3-DM
